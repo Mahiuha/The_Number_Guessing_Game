@@ -1,4 +1,4 @@
-**Braineers**
+# NGG
 
 NGG is a CLI guessing game. You have to select a correct number from one to five, and if the selected number is correct, player will win and if wrong, player will lose.
 
