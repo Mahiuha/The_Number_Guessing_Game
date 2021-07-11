@@ -29,6 +29,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install both ra
 ```pip install random```
 ```pip install pywhatkit```
 
+Clone the repo into your machine and finally run the NGG_v1.2.py file in your terminal using the following commands.
+
+```git clone <url>```
+```python3 NGG_v1.2.py```
 
 ## Project Demo.
 
