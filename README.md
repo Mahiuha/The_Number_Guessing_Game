@@ -30,5 +30,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install both ra
 ```pip install pywhatkit```
 
 
+## Project Demo.
+
+![2021-07-11 18-50-52 (1)](https://user-images.githubusercontent.com/35099243/125201999-4b2c1600-e27a-11eb-923c-ace09c5dd7b0.gif)
+
 
 **A game made with love for you by me.**
