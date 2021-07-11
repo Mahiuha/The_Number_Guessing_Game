@@ -1,12 +1,17 @@
- 
- ███     ██   █████    █████ 
- ████    ██  ██    █  ██    █
- ██ ██   ██  ██       ██   
- ██  ██  ██  ██  ██   ██  ██ 
- ██   ██ ██  ██    █  ██    █
- ██    ████   █████    █████  
-
-Author      : Joseph Mahiuha
-Version     : 1.1
-Email       : tiasho.mahiuha@gmail.com
-Bug Report  : https://github.com/Mahiuha/The_Number_Guessing_Game.git
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[Joseph Mahiuha]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░                                                                             ░░
+░░                         ███     ██   █████    █████                         ░░
+░░                         ████    ██  ██    █  ██    █                        ░░
+░░                         ██ ██   ██  ██       ██                             ░░
+░░                         ██  ██  ██  ██  ██   ██  ██                         ░░
+░░                         ██   ██ ██  ██    █  ██    █                        ░░
+░░                         ██    ████   █████    █████                         ░░
+░░                                                                             ░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░[The Number Guessing Game]░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░                                                                             ░░
+░░     Author      : Joseph Mahiuha.                                           ░░
+░░     Version     : 1.2                                                       ░░
+░░     Email       : tiasho.mahiuha@gmail.com                                  ░░
+░░     Bug Report  : https://github.com/Mahiuha/The_Number_Guessing_Game.git   ░░
+░░                                                                             ░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
