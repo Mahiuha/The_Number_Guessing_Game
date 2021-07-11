@@ -31,7 +31,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install both ra
 
 Clone the repo into your machine and finally run the NGG_v1.2.py file in your terminal using the following commands.
 
-```git clone <url>```
+```git clone https://github.com/Mahiuha/The_Number_Guessing_Game```
 ```python3 NGG_v1.2.py```
 
 ## Project Demo.
