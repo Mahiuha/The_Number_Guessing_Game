@@ -1,4 +1,4 @@
-# This is a Project I've made with Love.
+# This is a Game I've made with Love.
 
 # NGG CLI APP.
 
