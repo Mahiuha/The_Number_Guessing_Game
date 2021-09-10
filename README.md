@@ -1,4 +1,4 @@
-# This is my Capstone Project for Skaehub.
+# This is a Project I've made with Love.
 
 # NGG CLI APP.
 
